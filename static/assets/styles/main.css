@@ -1,5 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url(https://fonts.googleapis.com/css2?family=TitanOne&display=swap);
+@import url('https://fonts.googleapis.com/css2?family=CourierPrime&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=&display=swap');
 
 body {
   font-family: 'Titan One', sans-serif;
@@ -55,7 +56,7 @@ body {
 .main-search {
   width: 50vw;
   height: 5vh;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Courier Prime', monospace;
   font-size: 16px;
   box-shadow: 0 0 15px 2px rgba(0, 0, 0, 0.2);
   background: var(--background-secondary);
@@ -89,7 +90,7 @@ body {
   color: var(--text-primary);
   text-align: center;
   font-size: 15px;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Courier Prime', monospace;
 }
 
 .lower-footer > h1 > a {
@@ -97,7 +98,7 @@ body {
   color: var(--text-primary);
   margin-right: 1vw;
   margin-left: 1vw;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Courier Prime', monospace;
 }
 
 .featured {
